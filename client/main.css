@@ -1,0 +1,11 @@
+/* CSS declarations go here */
+.antesComment{
+  background-color:rgb(85,129,10);
+  text-align: center;
+  color:white;
+  height: 120px;
+}
+
+#botonComments{
+    background-color: rgb(85,129,10);
+}
